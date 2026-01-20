@@ -8,8 +8,6 @@
   <a href='#-tecnologias'>Tecnologias</a>
   &nbsp&nbsp•&nbsp&nbsp
   <a href='#-licencas'>Licença</a>
-  &nbsp&nbsp•&nbsp&nbsp
-  <a href='https://www.figma.com/community/file/1422676439178901872/caffucinho'>Protótipo</a>
 </p>
 
 <p align='center'>
@@ -27,8 +25,8 @@ O projeto trata-se de um aplicativo mobile destinado ao gerenciamento e controle
 O projeto foi projetado e desenvolvido entre o final de 2025 e início de 2026, projetado no Figma e desenvolvido em MERN Stack (MongoDB, Express, React, Node.js), utilizando workflows no Front-End, como o Tailwind CSS, através do Nativewind, e o Expo-Router. <br>
 O aplicativo aborda diferentes abordagens e tecnologias nunca antes vistas por mim, desde um dot-pattern até animações mais avançadas utilizando o React Native Reanimated. <br>
 <ul>
-    <li>Front-end: [GitHub](https://github.com/ptrpacheco/finance-manager).</li>
-    <li>Protótipo: [Figma](https://www.figma.com/community/file/1590871304833978693/gerenciador-de-financas-pessoais).</li>
+    <li>Front-end: <a href='https://github.com/ptrpacheco/finance-manager'>GitHub</a></li>
+    <li>Protótipo: <a href='https://www.figma.com/community/file/1590871304833978693/gerenciador-de-financas-pessoais'>Figma</a></li>
 </ul>
 
 <h2> 🤖 Tecnologias</h2>
